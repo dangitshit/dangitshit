@@ -1,95 +1,104 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Jade;Founder+%26+CEO+of+Flowaris;AI+Automation+Developer;Building+SaaS+%26+Developer+Tools" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00F7FF&height=220&section=header&text=Hi,%20I'm%20Jade%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Self-Taught%20Full%20Stack%20Developer%20%7C%20Founder%20%26%20CEO%20of%20Flowaris&descAlignY=55&descSize=18" width="100%"/>
 
-# 🚀 Jade
+<br/>
 
-**Founder & CEO — Flowaris**
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-00F7FF?style=for-the-badge&labelColor=black" height="28"/> <img src="https://komarev.com/ghpvc/?username=dev-sdas&color=00F7FF&style=flat-square&label=" height="28"/>
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF0080?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Website](https://img.shields.io/badge/WEBSITE-7928CA?style=for-the-badge&logo=vercel&logoColor=white)](https://flowaris.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
 
-Building **AI workflows, automation systems, developer tools, and scalable SaaS products.**
+</div>
 
----
+<br/>
 
-## 🧠 About Me
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-```yaml
-name: Jade
-username: dev-sdas
-role: Founder & CEO
-company: Flowaris
-focus: AI workflows, automation, SaaS
-location: India
-```
+### 🧠 About Me
+
+Self-taught full stack developer and **Founder & CEO of Flowaris**. I build AI-powered workflows, automation systems, developer tools, and scalable SaaS products — no CS degree, just years of shipping, breaking, and rebuilding in production.
 
 - ⚡ Building **automation tools & developer systems**
 - 🤖 Creating **bots, APIs, and workflow automation**
 - 🧠 Exploring **AI + SaaS platforms**
-- 🚀 Turning ideas into **scalable products**
+- 📚 100% self-taught — learned by building, not by lectures
+- 🚀 Turning ideas into **scalable products** at Flowaris
 
----
+</td>
+<td width="40%" valign="top">
 
-## 🛠 Tech Stack
+### 📌 Quick Facts
 
-<p align="center">
+| | |
+|---|---|
+| 🏢 **Company** | Flowaris |
+| 🎯 **Role** | Founder & CEO |
+| 🎓 **Background** | Self-Taught |
+| 🌍 **Location** | India |
+| 💡 **Focus** | AI · Automation · SaaS |
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,js,go,rust,mongodb,docker,git,linux,github,vscode" />
+</td>
+</tr>
+</table>
 
-</p>
+<br/>
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+### 🛠 Tech Stack
 
-<p align="center">
+<img src="https://img.shields.io/badge/Python-FF0080?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-7928CA?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-00F7FF?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-FF0080?style=for-the-badge&logo=typescript&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Go-7928CA?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-00F7FF?style=for-the-badge&logo=rust&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-FF0080?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-7928CA?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Docker-00F7FF?style=for-the-badge&logo=docker&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-FF0080?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-7928CA?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-sdas&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sdas&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<br/>
 
-</p>
+<div align="center">
 
----
+### 📊 GitHub Analytics
 
-## 🔥 GitHub Streak
+<img src="https://github-readme-stats.vercel.app/api?username=dev-sdas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=00F7FF&text_color=ffffff&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sdas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=ffffff" height="165"/>
 
-<p align="center">
+<img src="https://streak-stats.demolab.com/?user=dev-sdas&theme=radical&hide_border=true&background=0D1117&ring=FF0080&fire=00F7FF&currStreakLabel=00F7FF"/>
 
-<img src="https://streak-stats.demolab.com/?user=dev-sdas&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-sdas&bg_color=0D1117&color=00F7FF&line=FF0080&point=ffffff&area=true&hide_border=true" width="95%"/>
 
-</p>
+</div>
 
----
+<br/>
 
-## 📈 Contribution Graph
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-sdas&theme=tokyo-night&hide_border=true"/>
+### 🐍 Contribution Snake
 
----
+<img src="https://raw.githubusercontent.com/dev-sdas/dev-sdas/output/github-contribution-grid-snake.svg" width="95%"/>
 
-## 🐍 Contribution Snake
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://raw.githubusercontent.com/dev-sdas/dev-sdas/output/github-contribution-grid-snake.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7928CA,100:FF0080&height=120&section=footer" width="100%"/>
 
-</p>
+<div align="center">
 
----
+**⭐ Building systems that automate work and empower founders.**
 
-## 🌐 Connect
-
-- 💼 LinkedIn: https://linkedin.com
-- 🌐 Website: https://flowaris.com
-- 🐦 X: https://x.com
-
----
-
-## 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=dev-sdas&label=Profile%20views&color=0e75b6&style=flat" />
-
----
-
-⭐ *Building systems that automate work and empower founders.*
+</div>
