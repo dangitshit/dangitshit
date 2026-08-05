@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00F7FF&height=220&section=header&text=Hi,%20I'm%20Jade%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Self-Taught%20Full%20Stack%20Developer%20%7C%20Founder%20%26%20CEO%20of%20Flowaris&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
-
 <img src="https://img.shields.io/badge/PROFILE_VIEWS-00F7FF?style=for-the-badge&labelColor=black" height="28"/> <img src="https://komarev.com/ghpvc/?username=dev-sdas&color=00F7FF&style=flat-square&label=" height="28"/>
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF0080?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -14,42 +12,57 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+```bash
+jade@flowaris:~$ whoami
+```
+```yaml
+name        : Jade
+role        : Founder & CEO @ Flowaris
+background  : Self-taught, full stack
+focus       : AI workflows · automation · SaaS · dev tools
+location    : India
+status      : "shipping something, probably at 2am"
+```
 
-### 🧠 About Me
+<br/>
 
-Self-taught full stack developer and **Founder & CEO of Flowaris**. I build AI-powered workflows, automation systems, developer tools, and scalable SaaS products — no CS degree, just years of shipping, breaking, and rebuilding in production.
+```js
+// about_me.js
+const jade = {
+  founder: "Flowaris",
+  taughtBy: "Self",         // no CS degree, just late nights & docs
+  builds: [
+    "AI-powered automation systems",
+    "developer tools & internal SDKs",
+    "bots, APIs, workflow engines",
+    "scalable SaaS products"
+  ],
+  philosophy: "ship it, break it, fix it, scale it",
+  currentlyLearning: ["distributed systems", "LLM orchestration"],
+};
 
-- ⚡ Building **automation tools & developer systems**
-- 🤖 Creating **bots, APIs, and workflow automation**
-- 🧠 Exploring **AI + SaaS platforms**
-- 📚 100% self-taught — learned by building, not by lectures
-- 🚀 Turning ideas into **scalable products** at Flowaris
-
-</td>
-<td width="40%" valign="top">
-
-### 📌 Quick Facts
-
-| | |
-|---|---|
-| 🏢 **Company** | Flowaris |
-| 🎯 **Role** | Founder & CEO |
-| 🎓 **Background** | Self-Taught |
-| 🌍 **Location** | India |
-| 💡 **Focus** | AI · Automation · SaaS |
-
-</td>
-</tr>
-</table>
+export default jade;
+```
 
 <br/>
 
 <div align="center">
 
 ### 🛠 Tech Stack
+
+</div>
+
+```python
+tech_stack = {
+    "languages":  ["Python", "JavaScript", "TypeScript", "Go", "Rust"],
+    "backend":    ["Node.js", "Express", "FastAPI"],
+    "databases":  ["MongoDB", "PostgreSQL"],
+    "devops":     ["Docker", "Linux", "Git", "GitHub Actions"],
+    "editor":     "VS Code",
+}
+```
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Python-FF0080?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-7928CA?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -67,6 +80,19 @@ Self-taught full stack developer and **Founder & CEO of Flowaris**. I build AI-p
 <img src="https://img.shields.io/badge/VS_Code-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
 
 </div>
+
+<br/>
+
+```bash
+jade@flowaris:~$ cat quick_facts.txt
+```
+| Field | Value |
+|---|---|
+| 🏢 Company | Flowaris |
+| 🎯 Role | Founder & CEO |
+| 🎓 Background | Self-Taught |
+| 🌍 Location | India |
+| 💡 Focus | AI · Automation · SaaS |
 
 <br/>
 
@@ -95,10 +121,9 @@ Self-taught full stack developer and **Founder & CEO of Flowaris**. I build AI-p
 
 <br/>
 
+```bash
+jade@flowaris:~$ echo $MISSION
+> "Building systems that automate work and empower founders."
+```
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7928CA,100:FF0080&height=120&section=footer" width="100%"/>
-
-<div align="center">
-
-**⭐ Building systems that automate work and empower founders.**
-
-</div>
