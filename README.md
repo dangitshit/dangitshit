@@ -100,12 +100,12 @@ jade@flowaris:~$ cat quick_facts.txt
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-sdas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=00F7FF&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sdas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dangitshit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&icon_color=00F7FF&text_color=ffffff&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangitshit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0080&text_color=ffffff" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=dev-sdas&theme=radical&hide_border=true&background=0D1117&ring=FF0080&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com/?user=dangitshit&theme=radical&hide_border=true&background=0D1117&ring=FF0080&fire=00F7FF&currStreakLabel=00F7FF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-sdas&bg_color=0D1117&color=00F7FF&line=FF0080&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dangitshit&bg_color=0D1117&color=00F7FF&line=FF0080&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
