@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&background=0D111700&center=true&width=900&height=60&lines=Hey+there%2C+I'm+Jade+👋;Founder+%26+CEO+at+Flowaris;Building+AI-Powered+Automation+Systems;Self-Taught+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&background=0D111700&center=true&width=900&height=60&lines=Hey+there%2C+I'm+Jade+👋;Full+Stack+Developer;Building+AI-Powered+Solutions;Self-Taught+Developer)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -18,25 +18,25 @@
 
 ```javascript
 const jade = {
-  role: "🏢 Founder & CEO @ Flowaris",
+  role: "💻 Full Stack Developer",
   background: "🎓 Self-Taught Developer",
   philosophy: "Ship it 🚀 → Break it 🔥 → Fix it ⚙️ → Scale it 📈",
   location: "🌏 India",
-  status: "🎯 Always shipping, usually at 2am",
+  status: "🎯 Always building, usually at 2am",
   
   passion: [
     "Building intelligent automation systems",
     "Solving complex problems with elegant code",
-    "Empowering teams with developer tools",
-    "Exploring the frontier of LLM-powered workflows"
+    "Creating powerful developer tools",
+    "Exploring the frontier of LLM-powered applications"
   ],
   
   funFact: "No CS degree. Just late nights, docs, and pure determination 💪"
 }
 ```
 
-> I'm obsessed with building products that **automate complex workflows** and **empower teams**. 
-> By day, shipping features at **Flowaris**. By night, diving deep into distributed systems, AI orchestration, and whatever new tech catches my curiosity.
+> I'm obsessed with building products that **solve real problems** and **empower people**. 
+> By day, shipping features and solving complex challenges. By night, diving deep into AI, distributed systems, and whatever new tech catches my curiosity.
 
 ---
 
@@ -150,12 +150,13 @@ const jade = {
 <tr>
 <td width="50%">
 
-### 🤖 Flowaris
-**AI-Powered Automation Platform**
-- Intelligent workflow orchestration
-- LLM-driven decision making
-- Enterprise-grade reliability
-- [Explore →](https://flowaris.com)
+### 🎬 Screen Recorder Tool
+**Advanced Screen Capture & Recording**
+- Region selection & customization
+- Countdown timer & audio capture
+- Click highlighting overlay
+- Tray icon support
+- [View Repo →](https://github.com/dangitshit/screen_recorder_tool)
 
 </td>
 <td width="50%">
@@ -184,13 +185,13 @@ const jade = {
 </td>
 <td width="50%">
 
-### 🎬 Screen Recorder Tool
-**GUI Screen Capture with Advanced Features**
-- Region selection & customization
-- Countdown timer & audio capture
-- Click highlighting overlay
-- Tray icon support
-- [View Repo →](https://github.com/dangitshit/screen_recorder_tool)
+### 🤖 AI Automation Suite
+**Building intelligent workflow systems**
+- LLM-powered decision making
+- Multi-agent orchestration
+- Task automation & scheduling
+- Enterprise reliability
+- [Coming Soon →](#)
 
 </td>
 </tr>
@@ -200,12 +201,12 @@ const jade = {
 
 ## 💡 Key Achievements
 
-✨ **Founded & Leading Flowaris** — Scaling an AI-powered automation platform from 0 → production  
-🛠 **Built 15+ Production Tools** — CLI utilities, bots, SDKs, and automation frameworks  
-🚀 **Shipped Multiple SaaS Products** — Each handling thousands of concurrent users  
+✨ **Built 20+ Production Projects** — Tools, utilities, SDKs, and automation frameworks  
+🛠 **Multiple Domains** — Web, CLI, GUI, automation, data, and more  
+🚀 **Shipped Scalable Systems** — Each handling thousands of concurrent operations  
 📚 **Self-Taught to Pro** — No formal CS degree, just determination and continuous learning  
-🌟 **Active Open Source Contributor** — Building tools that the community loves  
-🎯 **Product Obsessed** — Focus on user experience, reliability, and performance  
+🌟 **Active Open Source Contributor** — Building tools the community loves  
+🎯 **Problem Solver** — Focus on practical solutions, user experience, and performance  
 
 ---
 
@@ -225,13 +226,12 @@ const jade = {
 
 | Key | Value |
 |---|---|
-| 🏢 **Company** | Flowaris |
-| 👔 **Role** | Founder & CEO |
+| 👔 **Role** | Full Stack Developer |
 | 🎓 **Background** | Self-Taught Developer |
 | 🌍 **Location** | India 🇮🇳 |
 | 💻 **Editor** | VS Code |
-| 🎯 **Focus Areas** | AI, Automation, SaaS, Dev Tools |
-| ☕ **Fuel** | Coffee & Ambition |
+| 🎯 **Focus Areas** | AI, Automation, Dev Tools, Web |
+| ☕ **Fuel** | Coffee & Curiosity |
 | 📝 **Code Style** | Clean, Documented, Tested |
 
 ---
@@ -243,11 +243,11 @@ const jade = {
    ↓
 2022-2023: Shipped 10+ Production Tools
    ↓
-2023-2024: Founded Flowaris, Scaling AI Automation
+2023-2024: Building AI & Automation Systems
    ↓
-2024-2025: Leading Enterprise Integrations
+2024-2025: Exploring Distributed Systems & LLMs
    ↓
-NOW: Building the Future of Workflow Automation
+NOW: Shipping at Scale, Solving Complex Problems
 ```
 
 ---
@@ -266,20 +266,20 @@ NOW: Building the Future of Workflow Automation
 
 ## 📈 Open to
 
-- 🤝 **Collaborations** on AI/automation projects
-- 💬 **Discussions** about software architecture & scaling
-- 🎓 **Mentorship** for aspiring self-taught developers
-- 🚀 **Partnerships** with founders & visionaries
-- 📝 **Speaking engagements** at tech events & conferences
+- 🤝 **Collaborations** on interesting projects
+- 💬 **Discussions** about software architecture & design
+- 🎓 **Mentorship** for aspiring developers
+- 🚀 **Partnerships** with fellow builders
+- 📝 **Speaking engagements** at tech events
 
 ---
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jade)
-[![Website](https://img.shields.io/badge/-Flowaris-00FF00?style=for-the-badge&logo=vercel&logoColor=black)](https://flowaris.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Twitter](https://img.shields.io/badge/-@jade-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@flowaris.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dangitshit)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@example.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ---
@@ -287,8 +287,8 @@ NOW: Building the Future of Workflow Automation
 ## 🎬 My Mission
 
 ```yaml
-mission: "Building systems that automate work and empower founders"
-vision: "A world where repetitive work is automated, and humans focus on creation"
+mission: "Building tools that solve real problems and empower people"
+vision: "A world where great software is accessible to everyone"
 values:
   - "Ship it. Break it. Fix it. Scale it."
   - "Users first, always."
@@ -301,20 +301,20 @@ values:
 
 <div align="center">
 
-### 🚀 Let's build something extraordinary together
+### 🚀 Let's build something great together
 
 <br/>
 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/dangitshit/dangitshit?style=flat-square&color=00FF00)
 &nbsp;
-![Profile Status](https://img.shields.io/badge/Status-Shipping-brightgreen?style=flat-square)
+![Profile Status](https://img.shields.io/badge/Status-Building-brightgreen?style=flat-square)
 
 <br/>
 
-*"The best code is the code that solves real problems for real people."*
+*"The best code is code that matters to someone."*
 
 <br/>
 
-**Made with ❤️ at 2:00 AM** ☕
+**Made with ❤️ and lots of ☕** 
 
 </div>
