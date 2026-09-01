@@ -1,50 +1,123 @@
-# Hi, I'm Jade 👋
+<div align="center">
 
-> Founder & CEO @ Flowaris | Self-Taught Full Stack Developer | Building AI-powered automation systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&background=0D111700&center=true&width=900&height=60&lines=Hey+there%2C+I'm+Jade+👋;Founder+%26+CEO+at+Flowaris;Building+AI-Powered+Automation+Systems;Self-Taught+Full+Stack+Developer)](https://git.io/typing-svg)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=dangitshit&color=00FF00&style=flat-square&label=PROFILE%20VIEWS)
+&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/dangitshit?color=00FF00&style=flat-square)
+&nbsp;&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/dangitshit?color=00FF00&style=flat-square)
 
-I'm a self-taught developer obsessed with building products that automate complex workflows and empower teams. By day, I'm shipping features at **Flowaris**. By night (usually around 2am), I'm tinkering with new ideas or diving deep into distributed systems.
-
-No CS degree, just a lot of curiosity, late nights, and documentation.
-
----
-
-## 💼 What I Do
-
-- **AI Workflows** — Building intelligent automation systems powered by LLMs
-- **Developer Tools** — Creating SDKs and internal tools that make life easier
-- **SaaS Products** — Scaling systems from zero to thousands of users
-- **Bots & APIs** — Designing robust, scalable integrations
-- **Workflow Engines** — Orchestrating complex, multi-step automations
-
-**Philosophy:** Ship it fast. Break it. Fix it. Scale it.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 💫 About Me
 
-**Languages**
-```
-Python · JavaScript · TypeScript · Go · Rust
+```javascript
+const jade = {
+  role: "🏢 Founder & CEO @ Flowaris",
+  background: "🎓 Self-Taught Developer",
+  philosophy: "Ship it 🚀 → Break it 🔥 → Fix it ⚙️ → Scale it 📈",
+  location: "🌏 India",
+  status: "🎯 Always shipping, usually at 2am",
+  
+  passion: [
+    "Building intelligent automation systems",
+    "Solving complex problems with elegant code",
+    "Empowering teams with developer tools",
+    "Exploring the frontier of LLM-powered workflows"
+  ],
+  
+  funFact: "No CS degree. Just late nights, docs, and pure determination 💪"
+}
 ```
 
-**Backend & Services**
-```
-Node.js · Express · FastAPI · Docker · Linux
-```
+> I'm obsessed with building products that **automate complex workflows** and **empower teams**. 
+> By day, shipping features at **Flowaris**. By night, diving deep into distributed systems, AI orchestration, and whatever new tech catches my curiosity.
 
-**Databases & Data**
-```
-PostgreSQL · MongoDB · Redis
-```
+---
 
-**DevOps & Tools**
-```
-GitHub Actions · Docker · Linux · Git · VS Code
-```
+## 🎯 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Automation
+- Intelligent automation systems powered by LLMs
+- Multi-agent orchestration frameworks
+- Workflow engines that handle complex logic
+- AI-driven decision-making systems
+
+</td>
+<td width="50%">
+
+### 🛠 Developer Tools
+- Internal SDKs & libraries
+- Developer experience optimization
+- CLI tools & automation scripts
+- Infrastructure & DevOps tools
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💼 SaaS Products
+- Scaling from 0 → 1000s of users
+- Reliable, performant systems
+- User-centric design & iteration
+- Product-market fit obsession
+
+</td>
+<td width="50%">
+
+### 🔌 Integrations & APIs
+- Robust, scalable integrations
+- Discord/Slack bots
+- Custom webhook systems
+- Multi-service orchestration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Arsenal
+
+### Languages & Runtimes
+![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088F0?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -71,11 +144,80 @@ GitHub Actions · Docker · Linux · Git · VS Code
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Flowaris
+**AI-Powered Automation Platform**
+- Intelligent workflow orchestration
+- LLM-driven decision making
+- Enterprise-grade reliability
+- [Explore →](https://flowaris.com)
+
+</td>
+<td width="50%">
+
+### 📊 Crypto Tracker
+**Real-time Price Monitoring Tool**
+- Live crypto tracking with CoinGecko API
+- Discord webhook notifications
+- Portfolio tracking & alerts
+- CSV export functionality
+- [View Repo →](https://github.com/dangitshit/crypto-tracker-tool)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⌨️ Typing Test Tool
+**Advanced Typing Speed Trainer**
+- Multiple difficulty levels
+- Real-time accuracy tracking
+- Performance history
+- Rating system
+- [View Repo →](https://github.com/dangitshit/typing_test_tool)
+
+</td>
+<td width="50%">
+
+### 🎬 Screen Recorder Tool
+**GUI Screen Capture with Advanced Features**
+- Region selection & customization
+- Countdown timer & audio capture
+- Click highlighting overlay
+- Tray icon support
+- [View Repo →](https://github.com/dangitshit/screen_recorder_tool)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Key Achievements
+
+✨ **Founded & Leading Flowaris** — Scaling an AI-powered automation platform from 0 → production  
+🛠 **Built 15+ Production Tools** — CLI utilities, bots, SDKs, and automation frameworks  
+🚀 **Shipped Multiple SaaS Products** — Each handling thousands of concurrent users  
+📚 **Self-Taught to Pro** — No formal CS degree, just determination and continuous learning  
+🌟 **Active Open Source Contributor** — Building tools that the community loves  
+🎯 **Product Obsessed** — Focus on user experience, reliability, and performance  
+
+---
+
 ## 🎯 Currently Learning
 
-- **Distributed Systems** — Understanding consensus, replication, and fault tolerance
-- **LLM Orchestration** — Advanced patterns for multi-agent AI systems
-- **Rust Performance** — Building high-performance systems and tools
+| Topic | Focus |
+|---|---|
+| 🧠 **LLM Orchestration** | Multi-agent systems, prompt engineering, chain-of-thought patterns |
+| 🔧 **Distributed Systems** | Consensus, replication, fault tolerance, CAP theorem |
+| ⚡ **Rust Performance** | Systems programming, memory safety, performance optimization |
+| 🌐 **Cloud Architecture** | Serverless, edge computing, CDN strategies |
+| 📡 **Real-time Systems** | WebSockets, event streaming, message queues |
 
 ---
 
@@ -86,35 +228,93 @@ GitHub Actions · Docker · Linux · Git · VS Code
 | 🏢 **Company** | Flowaris |
 | 👔 **Role** | Founder & CEO |
 | 🎓 **Background** | Self-Taught Developer |
-| 🌍 **Location** | India |
+| 🌍 **Location** | India 🇮🇳 |
 | 💻 **Editor** | VS Code |
 | 🎯 **Focus Areas** | AI, Automation, SaaS, Dev Tools |
+| ☕ **Fuel** | Coffee & Ambition |
+| 📝 **Code Style** | Clean, Documented, Tested |
+
+---
+
+## 🌟 Developer Journey
+
+```
+2020-2022: Self-taught → Built first SaaS
+   ↓
+2022-2023: Shipped 10+ Production Tools
+   ↓
+2023-2024: Founded Flowaris, Scaling AI Automation
+   ↓
+2024-2025: Leading Enterprise Integrations
+   ↓
+NOW: Building the Future of Workflow Automation
+```
+
+---
+
+## 💬 My Philosophy
+
+> "Great software isn't about the tools you use—it's about solving real problems with elegance."
+
+- 🎯 **Obsess over users** — Their problems are your problems
+- 🚀 **Ship fast, iterate faster** — Perfection is the enemy of progress
+- 📚 **Never stop learning** — Technology changes; curiosity shouldn't
+- 🤝 **Build in public** — Share knowledge, help others grow
+- ⚡ **Performance matters** — Speed is a feature, not a luxury
+
+---
+
+## 📈 Open to
+
+- 🤝 **Collaborations** on AI/automation projects
+- 💬 **Discussions** about software architecture & scaling
+- 🎓 **Mentorship** for aspiring self-taught developers
+- 🚀 **Partnerships** with founders & visionaries
+- 📝 **Speaking engagements** at tech events & conferences
 
 ---
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Website](https://img.shields.io/badge/-Flowaris-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://flowaris.com)
-[![Twitter](https://img.shields.io/badge/-@jade-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jade)
+[![Website](https://img.shields.io/badge/-Flowaris-00FF00?style=for-the-badge&logo=vercel&logoColor=black)](https://flowaris.com)
+[![Twitter](https://img.shields.io/badge/-@jade-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@flowaris.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ---
 
 ## 🎬 My Mission
 
-```
-Building systems that automate work, 
-reduce friction, and empower founders 
-to focus on what matters.
+```yaml
+mission: "Building systems that automate work and empower founders"
+vision: "A world where repetitive work is automated, and humans focus on creation"
+values:
+  - "Ship it. Break it. Fix it. Scale it."
+  - "Users first, always."
+  - "Code is communication."
+  - "Simplicity is sophistication."
+  - "Impact over ego."
 ```
 
 ---
 
 <div align="center">
 
-**Let's build something great together** 🚀
+### 🚀 Let's build something extraordinary together
 
-*Last updated: 2024*
+<br/>
+
+![GitHub Last Commit](https://img.shields.io/github/last-commit/dangitshit/dangitshit?style=flat-square&color=00FF00)
+&nbsp;
+![Profile Status](https://img.shields.io/badge/Status-Shipping-brightgreen?style=flat-square)
+
+<br/>
+
+*"The best code is the code that solves real problems for real people."*
+
+<br/>
+
+**Made with ❤️ at 2:00 AM** ☕
 
 </div>
