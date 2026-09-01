@@ -1,136 +1,110 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&background=0D111700&center=true&width=900&height=60&lines=Hey+there%2C+I'm+Jade+👋;Full+Stack+Developer;Building+AI-Powered+Solutions;Self-Taught+Developer)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Mono&size=32&duration=3000&pause=1000&color=00FF00&center=true&width=1000&height=70&lines=Hey+there%2C+I'm+Jade+%F0%9F%91%8B;Full+Stack+Developer;Building+the+Future+%F0%9F%9A%80;Self-Taught+%7C+Problem+Solver+%7C+Shipping+Daily" alt="Typing SVG">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Mono&size=32&duration=3000&pause=1000&color=00FF00&center=true&width=1000&height=70&lines=Hey+there%2C+I'm+Jade+%F0%9F%91%8B;Full+Stack+Developer;Building+the+Future+%F0%9F%9A%80;Self-Taught+%7C+Problem+Solver+%7C+Shipping+Daily" alt="Typing SVG">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dangitshit&color=00FF00&style=flat-square&label=PROFILE%20VIEWS)
-&nbsp;&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/dangitshit?color=00FF00&style=flat-square)
-&nbsp;&nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/dangitshit?color=00FF00&style=flat-square)
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dangitshit&color=00FF00&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/dangitshit?color=00FF00&style=flat-square&label=FOLLOWERS" alt="GitHub followers">
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/dangitshit?color=00FF00&style=flat-square&label=TOTAL+STARS" alt="GitHub User's stars">
+</p>
+
+<a href="https://devjade.xyz"><img src="https://img.shields.io/badge/Portfolio-devjade.xyz-00FF00?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
+&nbsp;
+<a href="https://github.com/dangitshit"><img src="https://img.shields.io/badge/GitHub-@dangitshit-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🎯 Who Am I?
 
-```javascript
-const jade = {
-  role: "💻 Full Stack Developer",
-  background: "🎓 Self-Taught Developer",
-  philosophy: "Ship it 🚀 → Break it 🔥 → Fix it ⚙️ → Scale it 📈",
-  location: "🌏 India",
-  status: "🎯 Always building, usually at 2am",
-  
-  passion: [
-    "Building intelligent automation systems",
-    "Solving complex problems with elegant code",
-    "Creating powerful developer tools",
-    "Exploring the frontier of LLM-powered applications"
-  ],
-  
-  funFact: "No CS degree. Just late nights, docs, and pure determination 💪"
-}
+```yaml
+👨‍💻 Full Stack Developer | Problem Solver | Open Source Enthusiast
+
+🎓 Background: Self-Taught (No CS Degree, Just Determination)
+🌍 Location: India 🇮🇳
+⏰ Status: Always shipping something (probably at 2am ☕)
+
+🔥 Philosophy:
+  - Ship it fast → Break it → Fix it → Scale it
+  - Code is communication
+  - Users > Ego
+  - Simplicity wins
 ```
 
-> I'm obsessed with building products that **solve real problems** and **empower people**. 
-> By day, shipping features and solving complex challenges. By night, diving deep into AI, distributed systems, and whatever new tech catches my curiosity.
+> I build **production-ready solutions** that solve real problems. No fluff, no excuses—just clean code that works.
 
 ---
 
-## 🎯 What I Build
+## 🚀 What I Do
+
+<div align="center">
+
+| 🤖 AI & Automation | 🛠️ Developer Tools | 🌐 Web & APIs | 📦 Scaling Systems |
+|---|---|---|---|
+| LLM orchestration | CLI utilities | REST/GraphQL APIs | Production infrastructure |
+| Workflow automation | SDKs & libraries | Real-time systems | Performance optimization |
+| Intelligent agents | Internal tools | Integrations | Database design |
+| Decision systems | DevOps scripts | Microservices | High availability |
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🔧 Core Languages
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+
+### 🏗️ Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### 🐳 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI & Automation
-- Intelligent automation systems powered by LLMs
-- Multi-agent orchestration frameworks
-- Workflow engines that handle complex logic
-- AI-driven decision-making systems
-
-</td>
-<td width="50%">
-
-### 🛠 Developer Tools
-- Internal SDKs & libraries
-- Developer experience optimization
-- CLI tools & automation scripts
-- Infrastructure & DevOps tools
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💼 SaaS Products
-- Scaling from 0 → 1000s of users
-- Reliable, performant systems
-- User-centric design & iteration
-- Product-market fit obsession
-
-</td>
-<td width="50%">
-
-### 🔌 Integrations & APIs
-- Robust, scalable integrations
-- Discord/Slack bots
-- Custom webhook systems
-- Multi-service orchestration
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Tech Arsenal
-
-### Languages & Runtimes
-![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-
-### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088F0?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td width="50%">
+**📈 Stats**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=dangitshit&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=FF0080&text_color=ffffff&count_private=true)
 
 </td>
 <td width="50%">
+
+**🔥 Streak**
 
 ![Streak](https://streak-stats.demolab.com/?user=dangitshit&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=FF0080&currStreakLabel=00FF00)
 
@@ -138,183 +112,117 @@ const jade = {
 </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangitshit&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangitshit&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=ffffff&langs_count=8)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dangitshit&bg_color=0D1117&color=FF0080&line=00FF00&point=ffffff&area=true&hide_border=true)
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 Screen Recorder Tool
-**Advanced Screen Capture & Recording**
-- Region selection & customization
-- Countdown timer & audio capture
-- Click highlighting overlay
-- Tray icon support
-- [View Repo →](https://github.com/dangitshit/screen_recorder_tool)
-
-</td>
-<td width="50%">
-
-### 📊 Crypto Tracker
-**Real-time Price Monitoring Tool**
-- Live crypto tracking with CoinGecko API
-- Discord webhook notifications
-- Portfolio tracking & alerts
-- CSV export functionality
-- [View Repo →](https://github.com/dangitshit/crypto-tracker-tool)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⌨️ Typing Test Tool
-**Advanced Typing Speed Trainer**
-- Multiple difficulty levels
-- Real-time accuracy tracking
-- Performance history
-- Rating system
-- [View Repo →](https://github.com/dangitshit/typing_test_tool)
-
-</td>
-<td width="50%">
-
-### 🤖 AI Automation Suite
-**Building intelligent workflow systems**
-- LLM-powered decision making
-- Multi-agent orchestration
-- Task automation & scheduling
-- Enterprise reliability
-- [Coming Soon →](#)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 💡 Key Achievements
+## 🌟 Featured Projects
 
-✨ **Built 20+ Production Projects** — Tools, utilities, SDKs, and automation frameworks  
-🛠 **Multiple Domains** — Web, CLI, GUI, automation, data, and more  
-🚀 **Shipped Scalable Systems** — Each handling thousands of concurrent operations  
-📚 **Self-Taught to Pro** — No formal CS degree, just determination and continuous learning  
-🌟 **Active Open Source Contributor** — Building tools the community loves  
-🎯 **Problem Solver** — Focus on practical solutions, user experience, and performance  
-
----
-
-## 🎯 Currently Learning
-
-| Topic | Focus |
-|---|---|
-| 🧠 **LLM Orchestration** | Multi-agent systems, prompt engineering, chain-of-thought patterns |
-| 🔧 **Distributed Systems** | Consensus, replication, fault tolerance, CAP theorem |
-| ⚡ **Rust Performance** | Systems programming, memory safety, performance optimization |
-| 🌐 **Cloud Architecture** | Serverless, edge computing, CDN strategies |
-| 📡 **Real-time Systems** | WebSockets, event streaming, message queues |
-
----
-
-## 📍 Quick Facts
-
-| Key | Value |
-|---|---|
-| 👔 **Role** | Full Stack Developer |
-| 🎓 **Background** | Self-Taught Developer |
-| 🌍 **Location** | India 🇮🇳 |
-| 💻 **Editor** | VS Code |
-| 🎯 **Focus Areas** | AI, Automation, Dev Tools, Web |
-| ☕ **Fuel** | Coffee & Curiosity |
-| 📝 **Code Style** | Clean, Documented, Tested |
-
----
-
-## 🌟 Developer Journey
-
+### 🎬 [Screen Recorder Tool](https://github.com/dangitshit/screen_recorder_tool)
+Advanced GUI screen recording with region capture, audio, countdown timer, click highlighting, and system tray support.
 ```
-2020-2022: Self-taught → Built first SaaS
-   ↓
-2022-2023: Shipped 10+ Production Tools
-   ↓
-2023-2024: Building AI & Automation Systems
-   ↓
-2024-2025: Exploring Distributed Systems & LLMs
-   ↓
-NOW: Shipping at Scale, Solving Complex Problems
+Python | Tkinter | OpenCV | PyAudio | PyTray
+```
+
+### 📊 [Crypto Tracker](https://github.com/dangitshit/crypto_tracker_tool)
+Real-time cryptocurrency price tracker with Discord webhooks, portfolio tracking, and alerts.
+```
+Python | CoinGecko API | Discord Webhooks | JSON Storage
+```
+
+### ⌨️ [Typing Test Tool](https://github.com/dangitshit/typing_test_tool)
+Terminal-based typing speed test with difficulty levels, history, and performance analytics.
+```
+Python | Colorama | JSON Persistence | CLI
+```
+
+### 🤖 [GitHub Repo Activity Notifier](https://github.com/dangitshit/github_repo_activity_notifier)
+Monitor GitHub repository events and send real-time notifications to Discord.
+```
+Python | GitHub API | Discord Webhooks | Event Streaming
 ```
 
 ---
 
-## 💬 My Philosophy
+## 💡 Achievements
 
-> "Great software isn't about the tools you use—it's about solving real problems with elegance."
-
-- 🎯 **Obsess over users** — Their problems are your problems
-- 🚀 **Ship fast, iterate faster** — Perfection is the enemy of progress
-- 📚 **Never stop learning** — Technology changes; curiosity shouldn't
-- 🤝 **Build in public** — Share knowledge, help others grow
-- ⚡ **Performance matters** — Speed is a feature, not a luxury
-
----
-
-## 📈 Open to
-
-- 🤝 **Collaborations** on interesting projects
-- 💬 **Discussions** about software architecture & design
-- 🎓 **Mentorship** for aspiring developers
-- 🚀 **Partnerships** with fellow builders
-- 📝 **Speaking engagements** at tech events
+✨ **Built 20+ production projects** across multiple domains  
+🚀 **Shipped scalable systems** handling thousands of operations  
+📚 **Self-taught mastery** — No CS degree, just passion & persistence  
+🌟 **Active in open source** — Contributing meaningful tools to the community  
+🎯 **Problem-first mindset** — Every line of code serves a purpose  
+⚡ **Performance obsessed** — Fast, reliable, scalable systems  
 
 ---
 
-## 🔗 Let's Connect
+## 📚 Currently Learning
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dangitshit)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1459487127774433316)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iorvzz)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dangitshit)
-[![Website](https://img.shields.io/badge/-devjade.xyz-00FF00?style=for-the-badge&logo=vercel&logoColor=black)](https://devjade.xyz)
+| Topic | Focus Area |
+|-------|-----------|
+| 🧠 **LLM Orchestration** | Multi-agent systems, prompt optimization, RAG patterns |
+| 🔗 **Distributed Systems** | Consensus, eventual consistency, failure handling |
+| ⚡ **Rust Systems Programming** | Memory safety, performance, systems-level design |
+| 🌐 **Cloud Architecture** | Serverless, edge computing, global scaling |
+| 📡 **Real-time Systems** | WebSockets, message queues, event streaming |
 
 ---
 
-## 🎬 My Mission
+## 🔗 Connect With Me
 
-```yaml
-mission: "Building tools that solve real problems and empower people"
-vision: "A world where great software is accessible to everyone"
-values:
-  - "Ship it. Break it. Fix it. Scale it."
-  - "Users first, always."
-  - "Code is communication."
-  - "Simplicity is sophistication."
-  - "Impact over ego."
-```
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dangitshit)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1459487127774433316)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iorvzz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dangitshit)
+[![Website](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=vercel&logoColor=black)](https://devjade.xyz)
+
+</div>
+
+---
+
+## 💬 Philosophy
+
+> **"Great software solves real problems for real people."**
+
+I believe in:
+- 🎯 **Shipping fast** — Perfection is the enemy of progress
+- 👥 **Users first** — Their needs drive every decision
+- 🧹 **Clean code** — Readable, maintainable, tested
+- 🚀 **Continuous learning** — Technology evolves, curiosity shouldn't stop
+- 🤝 **Open collaboration** — We grow faster together
+
+---
+
+## 📈 Open To
+
+- **🤝 Collaborations** on interesting projects
+- **💬 Technical discussions** about architecture & design patterns
+- **🎓 Mentoring** aspiring developers
+- **🚀 Partnerships** with fellow builders
+- **📝 Speaking opportunities** at tech events
 
 ---
 
 <div align="center">
 
-### 🚀 Let's build something great together
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### Let's Build Something Great Together 🚀
 
 <br/>
 
-![GitHub Last Commit](https://img.shields.io/github/last-commit/dangitshit/dangitshit?style=flat-square&color=00FF00)
+![Last Commit](https://img.shields.io/github/last-commit/dangitshit/dangitshit?style=flat-square&color=00FF00&label=LAST%20COMMIT)
 &nbsp;
-![Profile Status](https://img.shields.io/badge/Status-Building-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Shipping-brightgreen?style=flat-square)
 
-<br/>
+<br/><br/>
 
-*"The best code is code that matters to someone."*
-
-<br/>
-
-**Made with ❤️ and lots of ☕** 
+*Made with ❤️ by Jade*  
+*Last updated: 2026*
 
 </div>
